@@ -19,7 +19,7 @@ It's helpful if you're into security research, ethical hacking, or just want to 
 
 1. **Clone the repo**  
    ```bash
-   [git clone https://github.com/khashayarkeivanfar/Github-security-checker.git]
+   git clone https://github.com/khashayarkeivanfar/Github-security-checker.git
    cd Github-security-checker
    
 2. **Install the requirements**  
@@ -33,6 +33,3 @@ It's helpful if you're into security research, ethical hacking, or just want to 
 4. **run it**  
    ```bash
    python scanner.py
-
-
-
